@@ -7,7 +7,7 @@ It's basically a thin wrapper around [pdf2image](https://pypi.org/project/pdf2im
 ## How to get this working
 
 1. Install Poppler for your operating system (see: https://pypi.org/project/pdf2image/)
-2. Put your PDf files in the `01-input` folder
+2. Put your PDF files in the `01-input` folder
 3. Install the Python dependencies listed at the top of `run.py`
 4. Run `run.py`
 5. Enjoy your new PDF files, which have been placed in the `02-output` folder :)
